@@ -30,7 +30,7 @@ I converted some column names to fit that of 2020 quater,since the column name c
  (4) There are some rides where tripduration shows up as negative, including several hundred rides where Divvy took bikes out of circulation for Quality Control reasons. We will want to delete these rides.
  
 Added new columns to the list ( date, month, day, and year of each ride)
-#Descriptive analysis Phase
+## Descriptive analysis Phase
 Here i added trip length to the combined trip data frame so i could get the mean median ,minimun ride as well as maximum ride 
 I used this in comparing the ride data between members and casual members .
 Had to rearrange the days of the week in chronological order to determnine that of casual riders  and members 
