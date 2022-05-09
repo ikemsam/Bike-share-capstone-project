@@ -34,7 +34,7 @@ Added new columns to the list ( date, month, day, and year of each ride)
 Here i added trip length to the combined trip data frame so i could get the mean median ,minimun ride as well as maximum ride 
 I used this in comparing the ride data between members and casual members .
 Had to rearrange the days of the week in chronological order to determnine that of casual riders  and members 
-#Share Phase 
+## Share Phase 
 I used ggplot2 Package in visualizing the number of rides by riders type(members or casual)
 also i visualised average duration of the bike used by the riders by weekdays .
 # The Act Phase
